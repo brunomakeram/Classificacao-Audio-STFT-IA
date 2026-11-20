@@ -27,11 +27,9 @@ O código está comentado passo a passo, em português, e organizado em **7 etap
 
 1. Clone o repositório em sua máquina.
 
-2. Instale as bibliotecas necessárias: `keras`, `jax`, `numpy`, `pandas`, `scipy` e `matplotlib`.
+2. Abra o arquivo `classificacao_audio_STFT_IA.py` no Kaggle.
 
-3. Execute o arquivo `classificacao_audio_STFT_IA.py`.
-
-4. Na primeira execução, o dataset ESC-50 é baixado automaticamente para a pasta `datasets`.
+3. Execute o código. Na primeira execução, o dataset ESC-50 é baixado automaticamente para a pasta `datasets`.
 
 ---
 
