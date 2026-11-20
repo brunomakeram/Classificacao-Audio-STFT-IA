@@ -19,7 +19,7 @@ O código está comentado passo a passo, em português, e organizado em **7 etap
 ## 📂 Estrutura do Projeto
 
 - `classificacao_audio_STFT_IA.py`: Código-fonte principal, com a leitura dos dados, o pré-processamento, os espectrogramas e a divisão em treino, validação e teste.
-- `imagens/img1.jpg`, `imagens/img2.jpg`, `imagens/img3.jpg`: Registros visuais dos resultados gerados pelo código.
+- `imagens/img1.jpg`, `imagens/img2.jpg`, `imagens/img3.jpg`, `imagens/img4.jpg`: Registros visuais dos resultados gerados pelo código.
 
 ---
 
@@ -47,17 +47,21 @@ O código está comentado passo a passo, em português, e organizado em **7 etap
 
 ## 🖼️ Imagens do Projeto
 
-### Forma de onda e espectrograma
+### Dados carregados (tabela do ESC-10)
 
-![Forma de onda e espectrograma](imagens/img1.jpg)
+![Dados carregados](imagens/img1.jpg)
+
+### Espectrograma de canal único
+
+![Espectrograma de canal único](imagens/img2.jpg)
 
 ### Espectrograma de múltiplas larguras de banda
 
-![Espectrograma de múltiplas larguras de banda](imagens/img2.jpg)
+![Espectrograma de múltiplas larguras de banda](imagens/img3.jpg)
 
-### Saída dos dados carregados
+### Dados de treino, validação e teste
 
-![Saída dos dados carregados](imagens/img3.jpg)
+![Dados de treino, validação e teste](imagens/img4.jpg)
 
 ---
 
